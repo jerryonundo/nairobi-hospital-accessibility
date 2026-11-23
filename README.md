@@ -73,7 +73,7 @@ These two estimates did not reconcile completely. The difference is documented a
 
 ### Map 2: Ward-Level Healthcare Accessibility Gaps
 
-![Ward-Level Healthcare Accessibility Gaps](<maps/Ward-Level Healthcare Accessibility Gaps.png>)
+![Ward-Level Healthcare Accessibility Gaps](<maps/Ward-Level Healthcare Accessibility Gaps..png>)
 
 ### Map 3: Distribution of Underserved Population by Ward
 
