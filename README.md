@@ -76,6 +76,13 @@ These two estimates did not reconcile completely. The difference is documented a
 
 ![Distribution of Underserved Population](<maps/Distribution of Underserved Population by Ward.png>)
 
+
+## Technical Report
+
+The full technical report provides detailed documentation of the study objectives, datasets, analytical methodology, findings, recommendations and limitations.
+
+📄 [View Spatial Assessment of Hospital Accessibility in Nairobi County Report](reports/SPATIAL%20ASSESSMENT%20OF%20HOSPITAL%20ACCESSIBILITY%20IN%20NAIROBI%20COUNTY.pdf)
+
 ## Software and Tools
 
 - QGIS
