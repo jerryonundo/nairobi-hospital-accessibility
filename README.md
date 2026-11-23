@@ -64,9 +64,6 @@ These two estimates did not reconcile completely. The difference is documented a
 
 ## Map Outputs
 
-
-## Map Outputs
-
 ### Map 1: Spatial Distribution of Health Facilities in Nairobi County
 
 ![Spatial Distribution of Health Facilities](<maps/Spatial Distribution of Health Facilities in Nairobi County.png>)
