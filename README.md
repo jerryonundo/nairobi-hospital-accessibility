@@ -64,13 +64,20 @@ These two estimates did not reconcile completely. The difference is documented a
 
 ## Map Outputs
 
-The project includes three principal cartographic outputs:
 
-1. Ward-level percentage of population underserved by hospitals.
-2. Distribution of underserved population by ward.
-3. Hospital network service areas at 1–5 km distance thresholds.
+## Map Outputs
 
-See the `maps/` directory for the final map exports.
+### Map 1: Spatial Distribution of Health Facilities in Nairobi County
+
+![Spatial Distribution of Health Facilities](<maps/Spatial Distribution of Health Facilities in Nairobi County.png>)
+
+### Map 2: Ward-Level Healthcare Accessibility Gaps
+
+![Ward-Level Healthcare Accessibility Gaps](<maps/Ward-Level Healthcare Accessibility Gaps.png>)
+
+### Map 3: Distribution of Underserved Population by Ward
+
+![Distribution of Underserved Population](<maps/Distribution of Underserved Population by Ward.png>)
 
 ## Software and Tools
 
