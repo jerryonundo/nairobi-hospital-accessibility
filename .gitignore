@@ -1,0 +1,26 @@
+
+# QGIS backup files
+*.qgz~
+*.qgs~
+*.qgd
+*.qgd-shm
+*.qgd-wal
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Operating system files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary processing outputs
+processing/
+temp/
